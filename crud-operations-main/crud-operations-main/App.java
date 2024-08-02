@@ -13,7 +13,7 @@ public class App {
 
 	private static final String Username = "root";
 
-	private static final String Password = "akshaya@123";
+	private static final String Password = "root";
 
 	private static final String Url = "";
 
